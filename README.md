@@ -13,6 +13,6 @@ app.py tested on Spyder.
 Goto http://127.0.0.1:5000 after running app.py
 
 Deployment:
-Application can be deployed through IDE or by conda (Ananconda environment).
+Application can be deployed through IDE or by conda (Anaconda environment).
 
 
